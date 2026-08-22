@@ -1,0 +1,1 @@
+Core technology icons are stored locally so the profile does not depend on an icon CDN.
