@@ -149,20 +149,6 @@ Filesystem  Btrfs
 
 I enjoy experimenting with Linux performance, desktop workflows, configuration management and reproducible setups.
 
----
-
-## GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/Motachondria">
-<img src="https://github-readme-stats.vercel.app/api?username=Motachondria&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub statistics" width="48%">
-</a>
-<a href="https://github.com/Motachondria">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motachondria&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" width="42%">
-</a>
-
-</div>
 
 ---
 
