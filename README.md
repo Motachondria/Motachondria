@@ -24,6 +24,28 @@ I like turning what I learn into practical projects — from data and business t
 
 ---
 
+
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/USERNAME/REPOSITORY/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/USERNAME/REPOSITORY/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
+
+---
+
 ## Current focus
 
 | Business & Analytics | Technology |
