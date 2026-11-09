@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="./assets/banner/profile-hero.svg" alt="Shourya Varshney GitHub portfolio banner" width="100%">
 
@@ -24,10 +24,6 @@ I like turning what I learn into practical projects — from data and business t
 
 ---
 
-
-
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -42,7 +38,6 @@ I like turning what I learn into practical projects — from data and business t
     src="https://raw.githubusercontent.com/Motachondria/Motachondria/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
 
 ---
 
@@ -64,7 +59,7 @@ I like turning what I learn into practical projects — from data and business t
 <tr>
 <td valign="top" width="50%">
 
-### <img src="./assets/icons/kde.svg" width="22" alt="KDE"> CachyOS Dotfiles
+### <img src="https://img.shields.io/badge/KDE%20Plasma-12609A?style=flat-square&amp;logo=kde&amp;logoColor=white" height="22" alt="KDE Plasma"> CachyOS Dotfiles
 
 A reproducible Linux configuration repository managed with **chezmoi**.
 
@@ -75,7 +70,7 @@ KDE Plasma · Fish · Fastfetch · WirePlumber · systemd · yt-dlp
 </td>
 <td valign="top" width="50%">
 
-### <img src="./assets/icons/microsoftexcel.svg" width="22" alt="Excel"> Excel Analytics
+### <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" height="22" alt="Excel"> Excel Analytics
 
 Practical spreadsheets, dashboards, automation and business-data experiments.
 
@@ -86,7 +81,7 @@ Excel · Data analysis · Dashboards
 <tr>
 <td valign="top" width="50%">
 
-### <img src="./assets/icons/powerbi.svg" width="22" alt="Power BI"> Power BI Reports
+### <img src="https://img.shields.io/badge/Power%20BI-8A6D00?style=flat-square" height="22" alt="Power BI"> Power BI Reports
 
 Interactive reporting concepts for sales, finance and operations.
 
@@ -95,7 +90,7 @@ Power BI · Visualisation · Business insights
 </td>
 <td valign="top" width="50%">
 
-### <img src="./assets/icons/gnubash.svg" width="22" alt="Bash"> Linux Automation
+### <img src="https://img.shields.io/badge/Bash-287A3C?style=flat-square&amp;logo=gnubash&amp;logoColor=white" height="22" alt="Bash"> Linux Automation
 
 Small scripts and workflows for a faster, cleaner Linux desktop.
 
@@ -111,28 +106,50 @@ Bash · systemd · productivity
 
 <div align="center">
 
+<!-- Programming languages and core technologies -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=linux,py,bash,html,css,js&amp;perline=6&amp;theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=linux,py,bash,html,css,js&amp;perline=6&amp;theme=light"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=linux,py,bash,html,css,js&amp;perline=6&amp;theme=dark"
+    alt="Linux, Python, Bash, HTML5, CSS3 and JavaScript"
+  />
+</picture>
+
 <p>
-<img src="./assets/icons/linux.svg" width="46" height="46" alt="Linux" title="Linux">&nbsp;
-<img src="./assets/icons/python.svg" width="46" height="46" alt="Python" title="Python">&nbsp;
-<img src="./assets/icons/gnubash.svg" width="46" height="46" alt="GNU Bash" title="GNU Bash">&nbsp;
-<img src="./assets/icons/html5.svg" width="46" height="46" alt="HTML5" title="HTML5">&nbsp;
-<img src="./assets/icons/css3.svg" width="46" height="46" alt="CSS3" title="CSS3">&nbsp;
-<img src="./assets/icons/javascript.svg" width="46" height="46" alt="JavaScript" title="JavaScript">
+  <sub>Linux · Python · Bash · HTML5 · CSS3 · JavaScript</sub>
 </p>
+
+<!-- Development tools -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode&amp;perline=5&amp;theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode&amp;perline=5&amp;theme=light"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode&amp;perline=5&amp;theme=dark"
+    alt="Git, GitHub, Docker, MySQL and Visual Studio Code"
+  />
+</picture>
+
 <p>
-<sub>Linux · Python · Bash · HTML5 · CSS3 · JavaScript</sub>
+  <img src="https://img.shields.io/badge/KDE%20Plasma-12609A?style=flat-square&amp;logo=kde&amp;logoColor=white" alt="KDE Plasma">
 </p>
 
 <p>
-<img src="./assets/icons/git.svg" width="46" height="46" alt="Git" title="Git">&nbsp;
-<img src="./assets/icons/github.svg" width="46" height="46" alt="GitHub" title="GitHub">&nbsp;
-<img src="./assets/icons/docker.svg" width="46" height="46" alt="Docker" title="Docker">&nbsp;
-<img src="./assets/icons/mysql.svg" width="46" height="46" alt="MySQL" title="MySQL">&nbsp;
-<img src="./assets/icons/kde.svg" width="46" height="46" alt="KDE" title="KDE">&nbsp;
-<img src="./assets/icons/visualstudiocode.svg" width="46" height="46" alt="Visual Studio Code" title="Visual Studio Code">
-</p>
-<p>
-<sub>Git · GitHub · Docker · MySQL · KDE · VS Code</sub>
+  <sub>Git · GitHub · Docker · MySQL · KDE · VS Code</sub>
 </p>
 
 </div>
@@ -143,13 +160,15 @@ Bash · systemd · productivity
 
 <div align="center">
 
-<img src="./assets/icons/microsoftexcel.svg" width="50" height="50" alt="Microsoft Excel" title="Microsoft Excel">
-&nbsp;&nbsp;&nbsp;
-<img src="./assets/icons/powerbi.svg" width="50" height="50" alt="Power BI" title="Power BI">
-&nbsp;&nbsp;&nbsp;
-<img src="./assets/icons/mysql.svg" width="50" height="50" alt="MySQL" title="MySQL">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge" height="32" alt="Microsoft Excel">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-8A6D00?style=for-the-badge" height="32" alt="Power BI">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-285F86?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" height="32" alt="MySQL">
 
 <br>
+<br>
+
 <sub>Microsoft Excel · Power BI · MySQL</sub>
 
 </div>
@@ -170,7 +189,6 @@ Filesystem  Btrfs
 ```
 
 I enjoy experimenting with Linux performance, desktop workflows, configuration management and reproducible setups.
-
 
 ---
 
