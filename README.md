@@ -1,28 +1,6 @@
  <div align="center">
 
-<img src="./assets/banner/profile-hero.svg" alt="Shourya Varshney GitHub portfolio banner" width="100%">
 
-<p>
-  <a href="https://github.com/Motachondria"><strong>GitHub</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Motachondria/cachyos-dotfiles"><strong>Featured Project</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/"><strong>LinkedIn</strong></a>
-</p>
-
-</div>
-
----
-
-## About me
-
-I'm a B.Com student interested in the intersection of **business, analytics and technology**.
-
-I like turning what I learn into practical projects — from data and business tools to Linux configuration, automation and open-source workflows.
-
-> **Learn → Build → Document → Improve**
-
----
 
 <picture>
   <source
@@ -38,6 +16,30 @@ I like turning what I learn into practical projects — from data and business t
     src="https://raw.githubusercontent.com/Motachondria/Motachondria/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+
+---
+
+
+<img src="./assets/banner/profile-hero.svg" alt="Shourya Varshney GitHub portfolio banner" width="100%">
+
+</div>
+
+---
+
+
+
+
+
+## About me
+
+I'm a B.Com student interested in the intersection of **business, analytics and technology**.
+
+I like turning what I learn into practical projects — from data and business tools to Linux configuration, automation and open-source workflows.
+
+> **Learn → Build → Document → Improve**
+
 
 ---
 
@@ -111,14 +113,14 @@ Bash · systemd · productivity
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=linux,py,bash,html,css,js&amp;perline=6&amp;theme=dark"
+    srcset="https://skillicons.dev/icons?i=linux%2Cpy%2Cbash%2Chtml%2Ccss%2Cjs&amp;perline=6&amp;theme=dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=linux,py,bash,html,css,js&amp;perline=6&amp;theme=light"
+    srcset="https://skillicons.dev/icons?i=linux%2Cpy%2Cbash%2Chtml%2Ccss%2Cjs&amp;perline=6&amp;theme=light"
   />
   <img
-    src="https://skillicons.dev/icons?i=linux,py,bash,html,css,js&amp;perline=6&amp;theme=dark"
+    src="https://skillicons.dev/icons?i=linux%2Cpy%2Cbash%2Chtml%2Ccss%2Cjs&amp;perline=6&amp;theme=dark"
     alt="Linux, Python, Bash, HTML5, CSS3 and JavaScript"
   />
 </picture>
@@ -132,14 +134,14 @@ Bash · systemd · productivity
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode&amp;perline=5&amp;theme=dark"
+    srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cmysql%2Cvscode&amp;perline=5&amp;theme=dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode&amp;perline=5&amp;theme=light"
+    srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cmysql%2Cvscode&amp;perline=5&amp;theme=light"
   />
   <img
-    src="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode&amp;perline=5&amp;theme=dark"
+    src="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cmysql%2Cvscode&amp;perline=5&amp;theme=dark"
     alt="Git, GitHub, Docker, MySQL and Visual Studio Code"
   />
 </picture>
